@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 ## Peer Reviewed Journal Papers
 
 * Mazumder, R. K., Utsob, M. T. U., and Bhuiyan, A. R. (2018), Seismic Vulnerability Assessment of Medical Facilities: A GIS Based Application for Chittagong, Bangladesh, Malaysian Journal of Civil Engineering (Accepted)
