@@ -25,6 +25,7 @@ description: Academic Web and Blog
 navbar-links:
   Home: "abtme"
   CV: "CVrkm"
+  Research: "Research"
   #Datasets: "datasets"
   Publications: "publications"
   Author's home: "http://rkmazumder.github.io/rk"
