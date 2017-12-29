@@ -23,7 +23,7 @@ description: Academic Web and Blog
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "about me"
+  Home: "aboutme"
   Teaching: "teaching"
   #Datasets: "datasets"
   Publications: "publications"
