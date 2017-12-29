@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Know more about Ram Krishna Mazumder here...
 ---
+### Affiliation
+PhD Candidate
+Dept of Civil Engineering, [Case Western Reserve University](http://www.case.edu)
+Cleveland, Ohio, USA
 
-My name is Inigo Montoya. I have the following qualities:
+&
+Assistant Professor (on leave)
+Institute of Earthquake Engineering Research
+[Chittagong University of Engineering and Technology](http://www.cuet.ac.bd)
+Chittagong 4349, Bangladesh
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Higher Study Linkage
+* President (acting), [South Asian Chapter](http://www.em-a.eu/en/about-ema/regional-chapters/south-asian-chapter.html), Erasmus Mundus Association
+* Vice-President, [South Asian Chapter](http://www.em-a.eu/en/about-ema/regional-chapters/south-asian-chapter.html) (2015-17), Erasmus Mundus Association
+* Country Ambassador for Bangladesh (2013-15),  [Erasmus Mundus Association](http://www.em-a.eu)
