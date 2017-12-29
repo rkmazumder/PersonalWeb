@@ -1,3 +1,7 @@
+---
+layout: page
+title: Phd Cadidate
+---
 
 ## Research Projects
 
