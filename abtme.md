@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ram K Mazumder
+title: Phd Cadidate
 ---
 ### Affiliation
-PhD Candidate
+PhD Candidate,
 Dept of Civil Engineering, [Case Western Reserve University](http://www.case.edu)
 Cleveland, Ohio, USA
 
