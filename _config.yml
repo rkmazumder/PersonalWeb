@@ -23,8 +23,8 @@ description: Academic Web and Blog
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "aboutme"
-  Teaching: "teaching"
+  Home: "abtme"
+  CV: "CVrkm"
   #Datasets: "datasets"
   Publications: "publications"
   Author's home: "http://rkmazumder.github.io/rk"
