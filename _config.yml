@@ -14,7 +14,7 @@ baseurl: "http://rkmazumder.github.io/rk"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: rKm's Site
+title: @Rk
 
 # Short description of your site
 description: akwrd!
@@ -62,7 +62,7 @@ author:
   twitter: rkmazumder  # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  linkedin: rkmazumder  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -83,7 +83,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
