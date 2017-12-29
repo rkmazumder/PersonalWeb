@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Know more about Ram Krishna Mazumder here...
 ---
 ### Affiliation
 PhD Candidate
