@@ -54,7 +54,7 @@ avatar: "/img/rk1.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ram Krishna
+  name: Dean Attali
   email: "rkmazumder@gmail.com"
   facebook: yourname  # eg. daattali
   github: rkmazumder    # eg. daattali
@@ -129,7 +129,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/New York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
