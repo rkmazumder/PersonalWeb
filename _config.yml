@@ -44,7 +44,7 @@ avatar: "/img/rk1.png"
 # for the navigation bar, the main page, and the footer.
 navbar-col: "yellow"
 # navbar-img: "/img/bgimage.png"
-footer-col: "gray"
+# footer-col: "gray"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
