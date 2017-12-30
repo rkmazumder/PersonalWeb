@@ -5,7 +5,7 @@ subtitle: PhD Candidate, Case Western Reserve University
 meta-title: "Hi, I'm RK"
 use-site-title: true
 bigimg:
-  - "/img/rk1.jpg"
+  - "/img/rkk1.jpg"
 ---
 ## Other Affiliation
 Assistant Professor (on leave)
