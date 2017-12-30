@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PhD Candidate
-subtitle: Case Western Reserve University
+title: Ram K Mazumder
+subtitle: PhD Candidate, Case Western Reserve University
 ---
 ## Other Affiliation
 Assistant Professor (on leave)
