@@ -117,6 +117,11 @@ url-pretty: "www.cuet.ac.bd"  # eg. "deanattali.com/beautiful-jekyll"
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
 
+#pagination
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "blog/page:num"
+
 # Google Tag Manager ID
 #gtm: ""
 
