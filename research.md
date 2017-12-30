@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phd Cadidate
+title: Research/Projects
 ---
 
 ## Research Projects
