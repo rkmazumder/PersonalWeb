@@ -37,8 +37,7 @@ President, South Asian Chapter, Erasmus Mundus Students and Alumni Association
 </p>
 
 ## Briefly
-<iframe src="https://docs.google.com/presentation/d/1VT1qPqeAWwM20cDH_3i0cYlEmm2cPa4ZtVy4KEuJvFY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEwZvTVZI9SWr7IHNNgtqyVvNcZWLudMI278jvWaPcl67O_eZQzJ4vPHVugiQ1nwWytmZeoPXAVo2T/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Contact
 
