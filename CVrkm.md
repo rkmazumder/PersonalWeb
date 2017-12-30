@@ -33,7 +33,7 @@ title: Curriculum vitae
 E- Affiliate | Earthquake Engineering Research Institute (EERI) | 15337
 Member     | American Society of Civil Engineers |10949854
 Member     | International Association of Life Cycle Civil Engineering
-Member     | Institute of Engineers Bangladesh (IEB) | 27463
+Member     | Institute of Engineers Bangladesh (IEB) | M-27463
 Member     | Bangladesh Society for Geotechnical Engineering (BSGE) | 2012-001
 Life Fellow | Bangladesh Earthquake Society (BES) | 249
 
