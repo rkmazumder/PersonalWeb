@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  PhD Cadidate
+title:  PhD Candidate
 subtitle: Case Western Reserve University
 ---
 ## Other Affiliation
