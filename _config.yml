@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://rkmazumder.github.io/rk/abtme/"
-baseurl: "/rk"
+baseurl: "http://rkmazumder.github.io/rk/abtme/"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -42,9 +42,9 @@ avatar: "/img/rk1.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "light blue"
+navbar-col: "yellow"
 # navbar-img: "/img/bgimage.png"
-footer-col: "sky blue"
+footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
