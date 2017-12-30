@@ -8,6 +8,7 @@ subtitle: Case Western Reserve University
 <p>
  <a class="twitter-timeline"
  href="https://twitter.com/rkmazumder"
+ <a href="https://twitter.com/intent/tweet?screen_name=rkmazumder&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @rkmazumder</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  data-widget-id="340639437736255489"
  data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@rkmazumder)</a>
  <script>
