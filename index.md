@@ -8,7 +8,7 @@ bigimg:
   - "/img/rkk1.jpg"
 ---
 ## Other Affiliation
-Assistant Professor (on leave)
+Assistant Professor (on leave),
 Institute of Earthquake Engineering Research,
 Chittagong University of Engineering and Technology,
 Chittagong 4349, Bangladesh
