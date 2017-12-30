@@ -54,7 +54,7 @@ footer-col: "sky blue"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
+  name: rk Mazumder
   email: "rkmazumder@gmail.com"
   facebook: yourname  # eg. daattali
   github: rkmazumder    # eg. daattali
@@ -72,6 +72,9 @@ author:
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
+  orcid: "https://orcid.org/0000-0002-9589-4654"
+  googlescholar: "https://scholar.google.com/citations?user=2_1BBHYAAAAJ&hl=en"
+
 
 # Select which links to show in the footer
 footer-links-active:
@@ -93,6 +96,8 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
+  orchid: true
+  googlescholar: true
 
 # Select which share links to show in posts
 share-links-active:
