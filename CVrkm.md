@@ -10,7 +10,8 @@ title: Curriculum vitae
 * Risk Mitigation
 
 ### Employment History
-* Graduate Teaching Assistant, Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio Aug 2017 - Now Graduate Research Assistant, Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio, Aug 2016 - Now
+* Graduate Teaching Assistant, Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio Aug 2017 - Now
+* Graduate Research Assistant, Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio, Aug 2016 - Now
 * Assistant Professor, Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh, May 2015 - Now
 * Research Lecturer, Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh, May 2013 - May 2015
 * Research Engineer, Bangladesh University of Engineering and Technology, Bangladesh,  Oct 2010 - Dec 2011.
