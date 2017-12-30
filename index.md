@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Assistant Professor
-subtitle: Web Information Systems, TU Delft
+title:  PhD Cadidate
+subtitle: Case Western Reserve University
 ---
 
 ## News
