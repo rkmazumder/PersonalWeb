@@ -1,18 +1,61 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @rkmazumder
+ Sign out
+ Watch 0
+  Star 2  Fork 2,466 chauff/chauff.github.io
+forked from daattali/beautiful-jekyll
+ Code  Issues 3  Pull requests 0  Projects 0  Insights
+Branch: master Find file Copy pathchauff.github.io/_layouts/page.html
+bde8a56  on Mar 13, 2015
+@daattali daattali add support for comments on any page
+1 contributor
+RawBlameHistory     
+31 lines (28 sloc)  638 Bytes
 ---
-layout: base
+layout: default
 ---
 
-{% include header.html type="page" %}
-
-<div class="container" role="main">
+{% if page.title %}
+<header class="header-page">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {{ content }}
-	    {% if page.comments %}
-        <div class="disqus-comments">
-	        {% include disqus.html %}
-        </div>
+	  <div class="page-heading">
+	    <h1>{{ page.title }}</h1>
+	    {% if page.subtitle %}
+	    <hr class="small">
+	    <span class="page-subheading">{{ page.subtitle }}</span>
 	    {% endif %}
+	  </div>
     </div>
   </div>
+</header>
+{% endif %}
+
+<div class="row">
+  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    {{ content }}
+	{% if page.comments %}
+    <div class="disqus-comments">
+	  {% include disqus.html %}
+    </div>
+	{% endif %}
+  </div>
 </div>
+© 2017 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
