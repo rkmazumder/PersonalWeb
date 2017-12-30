@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phd Candidate
+title: PhD Candidate
 ---
 ### Affiliation
 PhD Candidate,
