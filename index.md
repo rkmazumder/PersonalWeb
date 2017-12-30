@@ -37,7 +37,7 @@ President, South Asian Chapter, Erasmus Mundus Students and Alumni Association
 </p>
 
 ## Erasmus Scholarship
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEwZvTVZI9SWr7IHNNgtqyVvNcZWLudMI278jvWaPcl67O_eZQzJ4vPHVugiQ1nwWytmZeoPXAVo2T/embed?start=false&loop=false&delayms=5000" frameborder="0" width="833" height="650" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEwZvTVZI9SWr7IHNNgtqyVvNcZWLudMI278jvWaPcl67O_eZQzJ4vPHVugiQ1nwWytmZeoPXAVo2T/embed?start=false&loop=false&delayms=5000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Contact
 
