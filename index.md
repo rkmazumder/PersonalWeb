@@ -5,10 +5,11 @@ subtitle: PhD Candidate, Case Western Reserve University
 meta-title: "Hi, I'm RK"
 use-site-title: true
 bigimg:
-  - /img/now_images/rkk1.jpg: Lost in Tahoma, California
-  - /img/now_images/sunset.jpg: Lost in Tahoma, California
-  - "/img/rkk1.jpg"
-  - "/img/sunset.jpg"
+  - /img/now_images/rkk1.jpg: Case Western Reserve Uni Campus
+  - /img/now_images/sajek.jpg: Journey to Paradise
+  - /img/now_images/sajek2.jpg: Sajek Valley
+share-img: /img/now_images/gfheader.jpg
+published: true
 ---
 ## Other Affiliation
 Assistant Professor (on leave),
