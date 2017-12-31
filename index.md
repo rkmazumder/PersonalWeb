@@ -5,9 +5,9 @@ subtitle: PhD Candidate, Case Western Reserve University
 meta-title: "Hi, I'm RK"
 use-site-title: true
 bigimg:
-  - /img/now_images/rkk1.jpg: Case Western Reserve Uni Campus
-  - /img/now_images/sajek.jpg: Journey to Paradise
-  - /img/now_images/sajek2.jpg: Sajek Valley
+  - /img/rkk1.jpg: Case Western Reserve Uni Campus
+  - /img/sajek.jpg: Journey to Paradise
+  - /img/sajek2.jpg: Sajek Valley
 ---
 ## Other Affiliation
 Assistant Professor (on leave),
