@@ -5,6 +5,8 @@ subtitle: PhD Candidate, Case Western Reserve University
 meta-title: "Hi, I'm RK"
 use-site-title: true
 bigimg:
+  - /img/now_images/rkk1.jpg: Lost in Tahoma, California
+  - /img/now_images/sunset.jpg: Lost in Tahoma, California
   - "/img/rkk1.jpg"
   - "/img/sunset.jpg"
 ---
