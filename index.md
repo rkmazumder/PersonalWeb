@@ -7,7 +7,6 @@ use-site-title: true
 bigimg:
   - /img/rkk1.jpg: Case Western Reserve Uni Campus
   - /img/hnw.jpg: Happy New Year 2018
-  - /img/sajek.jpg: Journey to Paradise
 ---
 ## Other Affiliation
 Assistant Professor (on leave),
