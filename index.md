@@ -6,8 +6,8 @@ meta-title: "Hi, I'm RK"
 use-site-title: true
 bigimg:
   - /img/rkk1.jpg: Case Western Reserve Uni Campus
+  - /img/hnw.jpg: Happy New Year 2018
   - /img/sajek.jpg: Journey to Paradise
-  - /img/sajek2.jpg: Sajek Valley
 ---
 ## Other Affiliation
 Assistant Professor (on leave),
