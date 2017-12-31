@@ -6,6 +6,7 @@ meta-title: "Hi, I'm RK"
 use-site-title: true
 bigimg:
   - "/img/rkk1.jpg"
+  - "/img/sunset.jpg"
 ---
 ## Other Affiliation
 Assistant Professor (on leave),
