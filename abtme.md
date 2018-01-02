@@ -16,13 +16,13 @@ Institute of Earthquake Engineering Research
 Chittagong 4349, Bangladesh
 
 ### Academic Background
-2014    Postgraduate Specialization in Geological & Climate Related Risk (University of Geneva, Switzerland)
-2012    Master in Evaluation Control and Reduction of Environmental Seismic Risk (University of Rome 'La Sapienza', Italy)
-2009    B.Sc in Civil and Environmental Engineering (Shahjalal University of Science and Technology, Bangladesh)
+* 2014    Postgraduate Specialization in Geological & Climate Related Risk (University of Geneva, Switzerland)
+* 2012    Master in Evaluation Control and Reduction of Environmental Seismic Risk (University of Rome 'La Sapienza', Italy)
+* 2009    B.Sc in Civil and Environmental Engineering (Shahjalal University of Science and Technology, Bangladesh)
 
-2015    GFZ Potsdam Fellow, Seismology and Seismic Hazard Assessment, Sec 2.1 Physics of the Earth
+* 2015    GFZ Potsdam Fellow, Seismology and Seismic Hazard Assessment, Sec 2.1 Physics of the Earth
 
-Continual Education: Several Advanced Training Courses in Bangladesh, India, Italy, Switzerland,  Germany and USA
+* Several Advanced Training Courses in Bangladesh, India, Italy, Switzerland,  Germany and USA * 
 
 Master's Thesis : Non-linear Static Pushover Analysis of  Masonry Wall
 PG Thesis       : Development of Seismic Fragility Curves of Reinforced Concrete Building with URM Infill Walls in Bangladesh
