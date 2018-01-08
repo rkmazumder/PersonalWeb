@@ -34,18 +34,17 @@ bigimg:
   </div>
 </div>
 
-<!-- site body (untouched)--> 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-    <h2 class="post-title">{{ post.title }}</h2>
+	  <h2 class="post-title">{{ post.title }}</h2>
 
-    {% if post.subtitle %}
-    <h3 class="post-subtitle">
-      {{ post.subtitle }}
-    </h3>
-    {% endif %}
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
     </a>
 
     <p class="post-meta">
