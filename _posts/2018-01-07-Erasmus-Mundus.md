@@ -3,6 +3,8 @@ layout: post
 title: Water Logging Crisis in Bangladesh- An Engineering Perspective 
 ---
 
+## Water Logging Crisis in Bangladesh- An Engineering Perspective 
+
 ### Introduction
 
 In recent years, capital Dhaka and mega city Chittagong are frequently facing water logging crisis, especially during monsoon time. The scenario becoming worse with the rapid urbanization. During the high-intensity rainfall, the city goes down the water and water logging crisis became unbearable for city dwellers. Since heavy rainfall is very common in this region during monsoon time, proper planning and assets management of water drainage system is the utmost need. Due to unplanned development and their effects, imposed extended demand, drainage system of civil infrastructures aren’t capable enough to the rapid transfer of storm water to the open water bodies. This issue is an infrastructure management problem and needs a sustainable planning. Proper use of the term 'Sustainability' is required to integrate while designing the drainage infrastructures of mega cities. The term ‘sustainability’ can be expressed by "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.” For a rapidly growing mega city like Dhaka and Chittagong, a sustainable modern drainage system is the utmost need which will capable to meets the present and future demand. The long term planning is necessary given that scenario of rapid urban growth of the city. It is now high time for other city corporation to learn from the current context. 
