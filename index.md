@@ -109,6 +109,8 @@ President, South Asian Chapter, Erasmus Mundus Students and Alumni Association
 {% endif %}
 
 
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=6mcOWJBbd0tsdx--SERx1rqHxE4n6uUk5HIqI4Oq1-s"></script>
+
 
 ## Contact
 
