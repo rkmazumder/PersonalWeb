@@ -24,6 +24,7 @@ description: Academic Web and Blog
 # List of links in the navigation bar
 navbar-links:
   Home: "abtme"
+    - blog: "blog"
   CV: "CVrkm"
   Research: "research"
   #Datasets: "datasets"
