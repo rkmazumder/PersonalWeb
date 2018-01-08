@@ -8,7 +8,6 @@ bigimg:
   - /img/rkk1.jpg: Case Western Reserve Uni Campus
   - /img/hnw.jpg: Happy New Year 2018
 ---
-
 <!-- Typed.js --> 
 <script src="/js/jquery-1.11.2.min.js"></script>
 <script src="/js/typed.js" type="text/javascript"></script>
