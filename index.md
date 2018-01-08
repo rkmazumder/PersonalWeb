@@ -9,7 +9,6 @@ bigimg:
   - /img/hnw.jpg: Happy New Year 2018
 ---
 
-
 <!-- Typed.js --> 
 <script src="/js/jquery-1.11.2.min.js"></script>
 <script src="/js/typed.js" type="text/javascript"></script>
@@ -20,6 +19,7 @@ bigimg:
       typeSpeed: 100,
       loop: true,
       backDelay: 1000
+
     });
   });
 </script>
@@ -28,23 +28,24 @@ bigimg:
   <div class="row">
     <div class="col-sm-12">
       <div class="text-center">
-          <h1>I write about <span class="typed" style="color:#a50509";></span></h1>
+          <h1>I write about <span class="typed" style="color:red";></span></h1>
       </div>
     </div>
   </div>
 </div>
 
+<!-- site body (untouched)--> 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+    <h2 class="post-title">{{ post.title }}</h2>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">
+      {{ post.subtitle }}
+    </h3>
+    {% endif %}
     </a>
 
     <p class="post-meta">
@@ -99,7 +100,6 @@ bigimg:
   {% endif %}
 </ul>
 {% endif %}
-
 
 ## Other Affiliation
 Assistant Professor (on leave),
