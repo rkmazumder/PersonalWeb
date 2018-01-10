@@ -1,6 +1,6 @@
 ##### Mazumder's Research Group at the Institute of Earthquake Engineering Research at CUET (January 2015- August 2016)
 
-[["/img/saif.png"]]
+[["/img/saif.jpg"]]
 > Muhammad Saif Uddin
 (Current Position: Graduate Research Assistant, University of Alaska at Anchorage, USA)
 Research Assistant (Jan 2015 -  June 2015)
