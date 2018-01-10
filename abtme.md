@@ -24,11 +24,9 @@ Chittagong 4349, Bangladesh
 
 > 2015    GFZ Potsdam Fellow, Seismology and Seismic Hazard Assessment, Sec 2.1 Physics of the Earth
 
-> *Several Advanced Training Courses in Bangladesh, India, Italy, Switzerland,  Germany and USA*
-
-> Master's Thesis : Non-linear Static Pushover Analysis of  Masonry Wall
-
-> PG Thesis       : Development of Seismic Fragility Curves of Reinforced Concrete Building with URM Infill Walls in Bangladesh
+* Several Advanced Training Courses in Bangladesh, India, Italy, Switzerland,  Germany and USA*
+* Master's Thesis : Non-linear Static Pushover Analysis of  Masonry Wall*
+* PG Thesis       : Development of Seismic Fragility Curves of Reinforced Concrete Building with URM Infill Walls in Bangladesh*
 
 ### Higher Study Linkage
 * President (acting), [South Asian Chapter](http://www.em-a.eu/en/about-ema/regional-chapters/south-asian-chapter.html), Erasmus Mundus Association
