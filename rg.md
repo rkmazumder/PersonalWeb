@@ -33,7 +33,7 @@ Shagata Das, Research Assistant (Jan 2016 -  August 2016)
 > *(Current Position: Grad Research Assistant, University of Lousiana, Lafayatte, USA)*
 
 
-> <img src="../img/IEER_students.png" width="500px">
+<img src="../img/IEER_students.png" width="500px">
 
-> *Convocation 2016: PG Graduates of 1st Bacth 
+*Convocation 2016: PG Graduates of 1st Bacth 
 (from Left Touhid, Saif, Ram, Rajen and Utsob)*
