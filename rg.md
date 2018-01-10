@@ -1,6 +1,6 @@
 ##### Mazumder's Research Group at the Institute of Earthquake Engineering Research at CUET (January 2015- August 2016)
 
-[["/img/saif.jpg"]]
+[[img "/img/saif.jpg"]]
 
 Muhammad Saif Uddin, Research Assistant (Jan 2015 -  June 2015)
 > Structural Safety Assessment of Existing Buildings at CUET Campus - Phase I (CUET-UGC Grant)
