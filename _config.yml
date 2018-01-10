@@ -26,8 +26,9 @@ navbar-links:
   Home: "abtme"
   Blog: "blog"
   CV: "CVrkm"
-  Research: "research"
-    -Research Group: "rg'
+  Research: 
+    - Research Group: "rg'
+    - Research Projects: "research"
   #Datasets: "datasets"
   Publications: "publications"
 
