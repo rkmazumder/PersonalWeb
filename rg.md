@@ -1,4 +1,4 @@
-### Mazumder's Research Group at the Institute of Earthquake Engineering Research at CUET (January 2015- August 2016)
+#### Mazumder's Research Group at the Institute of Earthquake Engineering Research at CUET (January 2015- August 2016)
 
 <img src="../img/saif.png" width="150px">
 
@@ -37,5 +37,6 @@ Shagata Das, Research Assistant (Jan 2016 -  August 2016)
 > *(Current Position: Grad Research Assistant, University of Lousiana, Lafayatte, USA)*
 
 
-<img src="../img/IEER_students.png" width="400px">
-August 2016: Research Group Photo (with Saif, Shagata, Rajen, from left)
+> <img src="../img/IEER_students.png" width="500px">
+
+> *Convocation 2016: PG Graduates from 1st Bacth (from Left Touhid, Saif, Ram, Rajen and Utsob)*
