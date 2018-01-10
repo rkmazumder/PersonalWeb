@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Research Projects at Institute of Earthquake Engineering Research, CUET 2014-16
+##### Research Projects at Institute of Earthquake Engineering Research, CUET 2014-16
 
 > 2015 CUET-UGC Funded Research Grant (co-PI)
 > Structural Safety Assessment of Existing Buildings at CUET Campus - Phase II (Amount: USD $2400)
