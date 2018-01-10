@@ -27,7 +27,7 @@ navbar-links:
   Blog: "blog"
   CV: "CVrkm"
   Research: 
-    - Research Group: "rg'
+    - Research Group: "rg"
     - Research Projects: "research"
   #Datasets: "datasets"
   Publications: "publications"
