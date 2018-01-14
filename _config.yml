@@ -29,7 +29,7 @@ navbar-links:
   Research: 
     - Research Group: "rg"
     - Research Projects: "research"
-    - Portfolio:"pt"
+    - Portfolio:"portfolio"
   #Datasets: "datasets"
   Publications: "publications"
 
