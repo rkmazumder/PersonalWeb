@@ -5,6 +5,8 @@ title: Publications
 
 ## Peer Reviewed Journal Papers
 
+* Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “State-of- the-Art Review of Water Distribution Systems Performance and Asset Management,” ASCE Journal of Infrastructure Systems (In Press).
+
 * Mazumder, R. K., Utsob, M. T. U., and Bhuiyan, A. R. (2018), Seismic Vulnerability Assessment of Medical Facilities: A GIS Based Application for Chittagong, Bangladesh, Malaysian Journal of Civil Engineering (Accepted)
 
 * Mazumder, R. K., Uddin, S., Dey, R. and Ansary, M. A. (2016), Analytical Fragility Curves for Reinforced Concrete Building Using Single Point Scaled Spectrum Matched Ground Motion Analyses, Malaysian Journal of Civil Engineering 28(3):394-406
