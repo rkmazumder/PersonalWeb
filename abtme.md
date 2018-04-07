@@ -26,6 +26,8 @@ Chittagong 4349, Bangladesh
 > PG Thesis       : Development of Seismic Fragility Curves of Reinforced Concrete Building with URM Infill Walls in Bangladesh
 
 ### Higher Study Linkage
+> Vice-President of Student Life [Graduate Student Council] (http://gsc.case.edu/StudentLife), Case Western Reserve University
+> Vice-President Elect [North American Chapter](http://www.em-a.eu/en/about-ema/regional-chapters/north-american-chapter.html), Erasmus Mundus Association
 * President (acting), [South Asian Chapter](http://www.em-a.eu/en/about-ema/regional-chapters/south-asian-chapter.html), Erasmus Mundus Association
 * Vice-President, [South Asian Chapter](http://www.em-a.eu/en/about-ema/regional-chapters/south-asian-chapter.html) (2015-17), Erasmus Mundus Association
 * Country Ambassador for Bangladesh (2013-15), [Erasmus Mundus Association](http://www.em-a.eu)
