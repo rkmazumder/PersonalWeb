@@ -7,7 +7,7 @@ use-site-title: true
 bigimg:
   - /img/rkk1.jpg: Case Western Reserve Uni Campus
   - /img/hnw.jpg: 
-  - /img/Aurora.jpg: Aurora Lights, Photo Courtesy: Xudong Zhao
+  - /img/Aurora.jpg: Aurora Lights PC Xudong Zhao
   
 ---
 
