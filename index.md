@@ -6,7 +6,9 @@ meta-title: "Hi, I'm RK"
 use-site-title: true
 bigimg:
   - /img/rkk1.jpg: Case Western Reserve Uni Campus
-  - /img/hnw.jpg: Happy New Year 2018
+  - /img/hnw.jpg: 
+  - /img/Aurora.jpg: Aurora Lights, Photo Courtesy: Xudong Zhao
+  
 ---
 
 ## Other Affiliation
