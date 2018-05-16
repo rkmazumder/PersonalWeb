@@ -6,7 +6,6 @@ meta-title: "Hi, I'm RK"
 use-site-title: true
 bigimg:
   - /img/rkk1.jpg: Case Western Reserve Uni Campus
-  - /img/hnw.jpg: 
   - /img/Aurora.jpg: Aurora Lights PC Xudong Zhao
   
 ---
