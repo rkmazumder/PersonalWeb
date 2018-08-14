@@ -5,13 +5,15 @@ title: Publications
 
 ## Peer Reviewed Journal Papers
 
+* Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “Reliability Analysis of Water Distribution Systems using Physical Probabilistic Pipe Failure Method", ASCE Journal of Water Resource Planning and Management (Accepted)
+
 * Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “State-of- the-Art Review of Water Distribution Systems Performance and Asset Management,” ASCE Journal of Infrastructure Systems [Download](https://ascelibrary.org/doi/abs/10.1061/(ASCE)IS.1943-555X.0000426)
 
 * Mazumder, R. K., Utsob, M. T. U., and Bhuiyan, A. R. (2018), Seismic Vulnerability Assessment of Medical Facilities: A GIS Based Application for Chittagong, Bangladesh, Malaysian Journal of Civil Engineering, 30(1):97-112 [Download](https://mjce.utm.my/index.php/MJCE/article/view/168)
 
-* Mazumder, R. K., Uddin, S., Dey, R. and Ansary, M. A. (2016), Analytical Fragility Curves for Reinforced Concrete Building Using Single Point Scaled Spectrum Matched Ground Motion Analyses, Malaysian Journal of Civil Engineering 28(3):394-406.
+* Mazumder, R. K., Uddin, S., Dey, R. and Ansary, M. A. (2016), Analytical Fragility Curves for Reinforced Concrete Building Using Single Point Scaled Spectrum Matched Ground Motion Analyses, Malaysian Journal of Civil Engineering 28(3):394-406 [Download](https://mjce.utm.my/index.php/MJCE/article/view/433)
 
-* Mazumder, R. K. and Ansary, M. A. (2014), Application of Capacity Spectrum Method based on ATC 40 and BNBC 1993, International Journal of Advanced Structures and Geotechnical Engineering, Vol. 03, No. 04.
+* Mazumder, R. K. and Ansary, M. A. (2014), Application of Capacity Spectrum Method based on ATC 40 and BNBC 1993, International Journal of Advanced Structures and Geotechnical Engineering, Vol. 03, No. 04 [Download](http://basharesearch.com/1030411.html)
 
 * Mazumder, R. K., Khair, A.,Sakib, N., Bhuiyan, A. R. and Alam, J. (2014) Rapid Assessment Procedure for Seismic Evaluation of Existing Buildings: A Case Study for CUET Campus, Journal of South Asian Disaster Studies, Vol. 06, 2012.
 
