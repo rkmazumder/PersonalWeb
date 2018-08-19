@@ -11,7 +11,7 @@ title: Publications
 
 * Mazumder, R. K., Utsob, M. T. U., and Bhuiyan, A. R. (2018), Seismic Vulnerability Assessment of Medical Facilities: A GIS Based Application for Chittagong, Bangladesh, Malaysian Journal of Civil Engineering, 30(1):97-112 [Download](https://mjce.utm.my/index.php/MJCE/article/view/168)
 
-* Mazumder, R. K., Uddin, S., Dey, R. and Ansary, M. A. (2016), Analytical Fragility Curves for Reinforced Concrete Building Using Single Point Scaled Spectrum Matched Ground Motion Analyses, Malaysian Journal of Civil Engineering 28(3):394-406 [Download](https://mjce.utm.my/index.php/MJCE/article/view/433)
+* Mazumder, R. K., Uddin, S., Dey, R. and Ansary, M. A. (2016), Analytical Fragility Curves for Reinforced Concrete Building Using Single Point Scaled Spectrum Matched Ground Motion Analyses, Malaysian Journal of Civil Engineering 28(3):394-406 [Download](https://mjce.utm.my/index.php/MJCE/article/view/170)
 
 * Mazumder, R. K. and Ansary, M. A. (2014), Application of Capacity Spectrum Method based on ATC 40 and BNBC 1993, International Journal of Advanced Structures and Geotechnical Engineering, Vol. 03, No. 04 [Download](http://basharesearch.com/1030411.html)
 
