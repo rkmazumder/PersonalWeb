@@ -9,9 +9,6 @@ bigimg:
   - /img/Aurora.jpg: Aurora Lights PC Xudong Zhao
   
 ---
----
-layout: home
----
 <div class="home">
   <ul class="post-list">
     {% for post in site.posts %}
