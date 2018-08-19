@@ -1,13 +1,5 @@
 ---
 layout: home
-title: Ram K Mazumder
-subtitle: PhD Candidate, Case Western Reserve University
-meta-title: "Hi, I'm RK"
-use-site-title: true
-bigimg:
-  - /img/rkk1.jpg: Case Western Reserve Uni Campus
-  - /img/Aurora.jpg: Aurora Lights PC Xudong Zhao
-  
 ---
 <div class="home">
   <ul class="post-list">
