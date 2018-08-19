@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Ram K Mazumder
 subtitle: PhD Candidate, Case Western Reserve University
 meta-title: "Hi, I'm RK"
