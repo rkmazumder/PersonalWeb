@@ -9,14 +9,6 @@ bigimg:
   - /img/Aurora.jpg: Aurora Lights PC Xudong Zhao
 ---
 
-## Other Affiliation
-Assistant Professor (on leave),
-Institute of Earthquake Engineering Research,
-Chittagong University of Engineering and Technology,
-Chittagong 4349, Bangladesh
-
-President, South Asian Chapter, Erasmus Mundus Students and Alumni Association
-
 
 ## Tweets
 <p>
