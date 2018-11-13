@@ -9,12 +9,6 @@ PhD Candidate,
 Dept of Civil Engineering, [Case Western Reserve University](http://www.case.edu)
 Cleveland, Ohio, USA
 
-&
-Assistant Professor (on leave)
-Institute of Earthquake Engineering Research
-[Chittagong University of Engineering and Technology](http://www.cuet.ac.bd)
-Chittagong 4349, Bangladesh
-
 ### Academic Background
 * 2014    Postgraduate Specialization in Geological & Climate Related Risk (University of Geneva, Switzerland)
 * 2012    Master in Evaluation Control and Reduction of Environmental Seismic Risk (University of Rome 'La Sapienza', Italy)
