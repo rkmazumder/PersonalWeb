@@ -5,9 +5,11 @@ title: Publications
 
 ## Peer Reviewed Journal Papers
 
-* Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “Reliability Analysis of Water Distribution Systems using Physical Probabilistic Pipe Failure Method", ASCE Journal of Water Resource Planning and Management (Accepted)
+* Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2019) “Reliability Analysis of Water Distribution Systems using Physical Probabilistic Pipe Failure Method", ASCE Journal of Water Resource Planning and Management [Download](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0001034)
 
 * Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “State-of- the-Art Review of Water Distribution Systems Performance and Asset Management,” ASCE Journal of Infrastructure Systems [Download](https://ascelibrary.org/doi/abs/10.1061/(ASCE)IS.1943-555X.0000426)
+
+* Mazumder, R. K. & Salman, A. M. (2018) Seismic Damage Assessment Using GIS and RADIUS: A Case Study of Sylhet City, Bangladesh, International Journal of Disaster Risk Reduction [Download](https://doi.org/10.1016/j.ijdrr.2018.11.023)
 
 * Mazumder, R. K., Utsob, M. T. U., and Bhuiyan, A. R. (2018), Seismic Vulnerability Assessment of Medical Facilities: A GIS Based Application for Chittagong, Bangladesh, Malaysian Journal of Civil Engineering, 30(1):97-112 [Download](https://mjce.utm.my/index.php/MJCE/article/view/170)
 
@@ -24,6 +26,11 @@ title: Publications
 * Mazumder, R. K and Ahmed, M (2010), Vulnerability Assessment of Reinforced Concrete Frame Buildings due to Earthquake in Sylhet City, Journal of Environmental Science and Natural Resources, Vol. 3, No. 2, 81-84.
 
 ## International Conference Papers
+
+* Mazumder, R.K., Salman, A.M., Li, Y., & Yu, X. (2019) A Decision-making Framework for Water Distribution Systems using Fuzzy Inference and Centrality Analysis International Conference on Applications of Statistics and Probability in Civil Engineering, May 26-30, Seoul, Korea. (Accepted)
+
+* Mazumder, R.K., Salman, A.M., Li, Y., & Yu, X. (2019) Reliability Assessment of Corroded Water Distribution Infrastructure, ASCE Pipeline 2019, July 21-24, Nashville, TN. (Accepted)
+
 * Mazumder, R. K., Biswas, B.S.P., Helali, A. L. and Ansary, M. A. (2017), Ambient Vibration Analysis of Heritage Unreinforced Masonry Buildings in Bangladesh, 16th World Conference on Earthquake Engineering (16WCEE), Santiago Chile, January 9-13, Paper N° 4176
 
 * Dey, R., Mazumder, R. K. and Bhuiyan, A. R. (2015), Generation of Analytical Fragility Curves from Capacity Spectrum: A Case Study of Reinforced Concrete Frame Building with URM infill walls, National Conference on Earthquake and Environmental Disaster, Dec 17, CUET, Chittagong, Bangladesh, P 037
