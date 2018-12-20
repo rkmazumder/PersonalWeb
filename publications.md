@@ -7,7 +7,7 @@ title: Publications
 
 * Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2019) “Reliability Analysis of Water Distribution Systems using Physical Probabilistic Pipe Failure Method", ASCE Journal of Water Resource Planning and Management [Download](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0001034)
 
-* Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “State-of- the-Art Review of Water Distribution Systems Performance and Asset Management,” ASCE Journal of Infrastructure Systems [Download](https://ascelibrary.org/doi/abs/10.1061/(ASCE)IS.1943-555X.0000426)
+* Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “State-of- the-Art Review: Peformance Evaluation of Water Distribution Systems and Asset Management,” ASCE Journal of Infrastructure Systems [Download](https://ascelibrary.org/doi/abs/10.1061/(ASCE)IS.1943-555X.0000426)
 
 * Mazumder, R. K. & Salman, A. M. (2018) Seismic Damage Assessment Using GIS and RADIUS: A Case Study of Sylhet City, Bangladesh, International Journal of Disaster Risk Reduction [Download](https://doi.org/10.1016/j.ijdrr.2018.11.023)
 
